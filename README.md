@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ziaq001
+- 👋 Hi, I’m @SbTech
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on any prject
